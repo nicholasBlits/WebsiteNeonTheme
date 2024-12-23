@@ -1,6 +1,6 @@
 # Explaining the use of stylesheet.css
 
-stylesheet.css is a file used to stylize a website. The exact characters of the sheet may be changed at any time, but the specific links between elements and CSS rules are used as placeholders.
+`stylesheet.css` is a file used to stylize a website. The exact characters of the sheet may be changed at any time, but the specific links between elements and CSS rules are used as placeholders.
 
 For newer developers, this file can be a starting point for understanding the capabilities of CSS files as whole.
 
