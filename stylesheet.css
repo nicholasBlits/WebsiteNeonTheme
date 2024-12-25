@@ -1,44 +1,46 @@
+/*
+*   Neon Website Theme
+ *  File Author: Nicholas S. Blits
+ *  Theme Version: 1.0.2
+ *  File: stylesheet.css
+ *  
+ *  Copyright Notice: All code present in this file has been created by Nicholas S. Blits. This is a very basic website theme that may be edited to better map to any website it is ued on, but it is expected that the developer using it recognizes that Nicholas S. Blits is the theme's original developer. Failure to do so may result in legal action as appropriate.
+*/
+
+/*Start of stylesheet.css*/
+
 body {
-    color: gray;
     background-color: black;
+    padding: 24px; 
     font-family: monospace;
 }
 
-#title 
-{
-    /*background-color: darkslategrey;*/
-    color: white;
-    text-align: center;
-    font-family: cursive;
-    font-size: 44px;
+h1 {
+    color: crimson;
 }
 
-#overview 
-{
-    color: red;
+p {
+    color: orange;
 }
 
-#introduction 
-{
-    color: blue;
+a {
+    color: yellow;
 }
 
-#disclaimer
-{
-    background-color: yellow;
+ul {
+    color: greenyellow;
+}
+
+dl > dt {
+    color: cyan;
+}
+
+button {
+    background-color: pink;
+    border-color: rosybrown;
     color: black;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
 }
 
-.examples
-{
-    color: green;
-}
-
-#messageButton 
-{
-    background-color: green;
-    color: white;
-    border-color: green;
-    position: relative;
-}
+/*End of stylesheet.css*/
