@@ -11,6 +11,6 @@ As of 12/22/2024, the file only has one version, which is a rudamentary set of s
 # Credits
 
 This file was entirely developed by me, and no other authors are to be credited as of the file's current state.
-Please refer any questions to either my LinkedIn (which uses the same name as listed in my GItHub username) or nicholasblits05@yahoo.com directly. Thank you.
+Please refer any questions to either my LinkedIn (which uses the same name as listed in my GitHub username) or nicholasblits05@yahoo.com directly. Thank you.
 
 Updated Footnote: My LinkedIn (for simplicity's sake) can be found at the following link https://bit.ly/NBlitsLinkedIn
