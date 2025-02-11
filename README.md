@@ -4,7 +4,7 @@
 
 For newer developers, this file can be a starting point for understanding the capabilities of CSS files as whole.
 
-# Legal notices
+#### Legal notices
 
 As of 12/22/2024, the file only has one version, which is a rudamentary set of stylizing rules as a building block for website development. Changes may be made in the future, which I (Nichoals S. Blits) will make note of as they happen.
 
